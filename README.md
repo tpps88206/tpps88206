@@ -1,4 +1,4 @@
-<div style="text-align: center;"><img src="https://github.com/tpps88206/tpps88206/blob/main/logo.svg"></div>
+<p style="text-align: center;"><img src="https://github.com/tpps88206/tpps88206/blob/main/logo.svg"></p>
 
 ### How to reach me:
 
