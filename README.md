@@ -2,7 +2,7 @@
 
 ### How to reach me:
 
-<a href="cool96482@hotmail.com"><img src="https://img.shields.io/badge/cool96482@hotmail.com-%2300A4EF.svg?&style=for-the-badge&logo=microsoft&logoColor=white"></a><a href="https://www.linkedin.com/in/sheng-chuan-hsu-a44357167"><img src="https://img.shields.io/badge/Sheng%20Chuan%20%28Michael%29%20Hsu-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a><a href="https://michael-hsu.medium.com/"><img src="https://img.shields.io/badge/@michael%20hsu-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"></a> 
+<a href="cool96482@hotmail.com"><img src="https://img.shields.io/badge/cool96482@hotmail.com-%2300A4EF.svg?&style=for-the-badge&logo=microsoft&logoColor=white"></a> <a href="https://www.linkedin.com/in/sheng-chuan-hsu-a44357167"><img src="https://img.shields.io/badge/Sheng%20Chuan%20%28Michael%29%20Hsu-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://michael-hsu.medium.com/"><img src="https://img.shields.io/badge/@michael%20hsu-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"></a> 
 
 ### Here are some ideas to help you get started:
 
