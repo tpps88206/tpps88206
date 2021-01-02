@@ -1,4 +1,4 @@
-![](https://github.com/tpps88206/tpps88206/blob/main/logo.svg)
+<img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tpps88206&layout=compact">
 
 ### How to reach me:
 
