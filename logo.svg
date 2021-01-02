@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="479px" height="121px" viewBox="0 0 479 121" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <rect id="Rectangle" stroke="#09191C" stroke-width="6" fill="#C5DBDF" x="17" y="20" width="459" height="98"></rect>
+            <rect id="Rectangle" stroke="#09191C" stroke-width="6" fill="#FFFFFF" x="3" y="3" width="459" height="98"></rect>
+            <text id="&lt;MichaelHsu-/&gt;" fill-rule="nonzero" font-family="AndaleMono, Andale Mono" font-size="48" font-weight="normal" line-spacing="54" letter-spacing="0.96">
+                <tspan x="28" y="69" fill="#D30F7C">&lt;</tspan>
+                <tspan x="57.7646875" y="69" fill="#183FA4">MichaelHsu</tspan>
+                <tspan x="355.411563" y="69" fill="#0F2BD3"> </tspan>
+                <tspan x="385.17625" y="69" fill="#D30F7C">/&gt;</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
