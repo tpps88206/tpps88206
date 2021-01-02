@@ -15,9 +15,9 @@
 
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=tpps88206&repo=michael-angular-go-grpc-example">
+<img src="https://github-readme-stats.vercel.app/api?username=tpps88206&count_private=true&show_icons=true&theme=tokyonight">
 
-<a href="https://github.com/tpps88206/michael-angular-go-grpc-example"><img src="https://github-readme-stats.vercel.app/api?username=tpps88206&count_private=true&show_icons=true&theme=tokyonight"></a>
+<a href="https://github.com/tpps88206/michael-angular-go-grpc-example"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tpps88206&repo=michael-angular-go-grpc-example"></a>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tpps88206&layout=compact">
 
