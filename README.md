@@ -17,7 +17,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=tpps88206&count_private=true&show_icons=true&theme=tokyonight">
 
-<a href="https://github.com/tpps88206/michael-angular-go-grpc-example"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tpps88206&repo=michael-angular-go-grpc-example"></a>
+<a href="https://github.com/tpps88206/JIRA2Notion"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tpps88206&repo=JIRA2Notion"></a>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tpps88206&layout=compact">
 
